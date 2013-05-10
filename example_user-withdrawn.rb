@@ -1,4 +1,5 @@
-#example_user.rb
+#example_user.rb..
+# from RailsTutorial ss4.4.5
 
 class User
   attr_accessor :name, :email
